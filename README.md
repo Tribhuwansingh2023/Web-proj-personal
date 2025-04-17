@@ -30,7 +30,7 @@
 ## 🔧 Customization  
 Edit these files to make it yours:  
 - **Change images**: Replace `/assets` images (keep dimensions square!).  
-- **Adjust animation speed**: Tweak `animation-duration` in `styles.css`.  
+- **Adjust animation speed**: Tweak `animation-duration` in `program.css`.  
 - **Edit the message**: Modify the "I Love You" text in `index.html`.  
 
 ---
@@ -43,17 +43,18 @@ Edit these files to make it yours:
 ---
 
 ## 🤝 Credits  
-- Inspired by: Sleep deprivation and CSS-Tricks.  
-- Cube logic: Built with pure math (and caffeine).  
+- 💡 Inspired by: Love, insomnia, and CSS-Tricks.
+- ☕ Built with: HTML, CSS, and a lot of chai.
+- 👨‍💻 By: Tribhuwan Singh
 
 ---
 
 ## 📄 License  
-MIT License – do whatever, just credit me if you clone it for your crush.  
+MIT License – Copy, modify, and send to your crush (just credit me, please)..  
 
 ---
 
-**Made with ❤️ by Aoudumber Bade**  
+**Made with ❤️ by Tribhuwansingh2023**  
 *Tag me if you remix this!*  
 
 🚀 **Star this repo if you’d code this for someone!**  
@@ -63,8 +64,9 @@ MIT License – do whatever, just credit me if you clone it for your crush.
 ---
 
 ### 🔥 Contribute  
-- Fork, tweak, and PR!  
-- Ideas? Open an issue – let’s collab!  
+- Fork this repo
+- Add your flair (Music? Emojis? Your own style)
+- Open a PR – let's make this open source romantic 
 
 --- 
 
